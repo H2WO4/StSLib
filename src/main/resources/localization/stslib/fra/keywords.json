@@ -1,0 +1,82 @@
+[
+  {
+    "NAMES": [
+      "disparition",
+      "disparaît"
+    ],
+    "DESCRIPTION": "Écartée jusqu'à la fin du combat. N'est #rPAS placée dans la pile d'Épuisement."
+  },
+  {
+    "NAMES": [
+      "retenue"
+    ],
+    "DESCRIPTION": "Les cartes retenues ne sont pas défaussées à la fin du tour."
+  },
+  {
+    "NAMES": [
+      "automatique"
+    ],
+    "DESCRIPTION": "Cette carte se joue d'elle-même quand piochée."
+  },
+  {
+    "NAMES": [
+      "lien spirituel",
+      "lien_spirituel"
+    ],
+    "DESCRIPTION": "Ne peut être retirée de votre deck."
+  },
+  {
+    "NAMES": [
+      "geckobra"
+    ],
+    "DESCRIPTION": "Quand cette carte est piochée, son coût devient aléatoire."
+  },
+  {
+    "NAMES": [
+      "tombal"
+    ],
+    "DESCRIPTION": "Commence le combat dans la pile d'Épuisement."
+  },
+  {
+    "NAMES": [
+      "fuyant"
+    ],
+    "DESCRIPTION": "Cette carte #yDisparaît et est supprimée de votre deck."
+  },
+  {
+    "PROPER_NAME": "PV temporaires",
+    "NAMES": [
+      "pv temporaire",
+      "pv_temporaire"
+    ],
+    "DESCRIPTION": "Les PV temporaires disparaissent à la fin du combat."
+  },
+  {
+    "NAMES": [
+      "recherche",
+      "recherchez",
+      "cherche",
+      "cherchez"
+    ],
+    "DESCRIPTION": "Choississez une carte dans une certaine pile et ajoutez la à votre main."
+  },
+  {
+    "NAMES": [
+      "remoursement",
+      "rembourser"
+    ],
+    "DESCRIPTION": "Rebourse une partie de l'energie utilisé pour jouer cette carte."
+  },
+  {
+    "NAMES": [
+      "épuisable"
+    ],
+    "DESCRIPTION": "#yS'épuise après un certain nombre d'utilisation."
+  },
+  {
+    "NAMES": [
+      "démarrage"
+    ],
+    "DESCRIPTION": "S'active au début de chaque combat."
+  }
+]

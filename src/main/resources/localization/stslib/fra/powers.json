@@ -1,0 +1,17 @@
+{
+  "stslib:Stunned": {
+    "NAME": "Étourdi",
+    "DESCRIPTIONS": [
+      "Ne fait rien pendant #b",
+      " tour.",
+      " tours."
+    ]
+  },
+  "stslib:ExhaustiveNegationPower": {
+    "NAME": "Pleine Forme",
+    "DESCRIPTIONS": [
+      "Les #b",
+      " prochaines fois que vous jouez une carte Épuisabe, son compteur ne descendra pas."
+    ]
+  }
+}
